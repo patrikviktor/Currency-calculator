@@ -34,7 +34,7 @@ Follow these instructions to set up and run both the Flutter frontend and the Ne
 
 1. Open your terminal and navigate to the Flutter project directory:
 
-cd exchange_app
+`cd exchange_app`
 
 2. Install the necessary Flutter packages:
 
