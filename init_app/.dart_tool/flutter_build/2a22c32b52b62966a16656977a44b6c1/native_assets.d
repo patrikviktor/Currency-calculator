@@ -1,0 +1,1 @@
+ /home/viktorpatrik/Work/init_task/init_app/.dart_tool/flutter_build/2a22c32b52b62966a16656977a44b6c1/native_assets.yaml: 
