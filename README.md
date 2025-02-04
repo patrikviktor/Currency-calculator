@@ -1,2 +1,2 @@
-# currency_calculator
+# Currency_calculator
 Basic Currency calculator app based on actual ECB rates
