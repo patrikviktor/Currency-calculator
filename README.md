@@ -10,7 +10,7 @@ This repository contains a currency calculator that uses the actual European Cen
 - **exchange_app/**  
   Contains the Flutter application for currency conversion.
 - **exchange-currency/**  
-  Contains the NestJS backend for processing API requests and currency rate calculations.
+  Contains the NestJS backend for processing API requests and conversion from ECB XML format file.
 
 ## Getting Started
 
